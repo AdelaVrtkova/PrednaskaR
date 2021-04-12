@@ -37,3 +37,37 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+CV7/.ipynb_checkpoints/
+
+CV7/tabulka.csv
+
+CV1/.ipynb_checkpoints/
+
+support_files/.ipynb_checkpoints/
+
+CV1/cv_ulohy_ze_sbirky/.ipynb_checkpoints/
+
+CV2/.ipynb_checkpoints/
+
+tutorials/.ipynb_checkpoints/
+
+.working/CV2/.cv2.autosave.xopp
+
+CV3/.ipynb_checkpoints/
+
+CV4/.ipynb_checkpoints/
+
+CV5/.ipynb_checkpoints/
+
+CV6/.ipynb_checkpoints/
+
+*.xlsx#
+
+CV8/.ipynb_checkpoints/
+
+.working/CV8/.cv8.autosave.xopp
+
+.working/P3_dodatek.lyx~
+
+CV9/.ipynb_checkpoints/
