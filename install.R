@@ -4,4 +4,4 @@ install.packages("openxlsx")
 install.packages("moments")
 install.packages("ggplot2")
 
-install.packages("tidyr")
+install.packages("tidyverse")
