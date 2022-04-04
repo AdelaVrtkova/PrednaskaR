@@ -1,2 +1,0 @@
-# Prednaska_UNIZA
-
