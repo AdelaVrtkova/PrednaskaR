@@ -246,5 +246,3 @@ ggplot(tab,
   theme_bw()+
   theme(axis.text = element_text(size = 14, color = "black"),
         axis.title = element_text(size = 14, color = "black"))
-
-
