@@ -3,6 +3,8 @@
 #/////////      O závislostech, o vizualizaci (a možná i o jednom hadovi)      /////////////
 #///////////////////////////////////////////////////////////////////////////////////////////
 
+# Nezobrazuje-li se skript správně -> File - Reopen with Encoding -> UTF-8
+
 # Mgr. Adéla Vrtková (adela.vrtkova@vsb.cz)
 # Lékařská fakulta, Ostravská univerzita
 # Katedra aplikované matematiky, Fakulta elektrotechniky a informatiky, VŠB - Technická univerzita Ostrava
